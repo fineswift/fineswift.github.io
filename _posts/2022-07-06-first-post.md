@@ -6,6 +6,8 @@ categories:
   - Blog
 tags:
   - Blog
+
+date: 2020-07-06
 last_modified_at: 2019-04-13T08:06:00-05:00
 ---
 
