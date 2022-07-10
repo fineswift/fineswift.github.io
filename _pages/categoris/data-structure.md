@@ -8,7 +8,7 @@ sidebar:
   nav: "docs"
 ---
 
-{% assing posts = site.categories.data-structure %}
+{% assign posts = site.categories.data-structure %}
 {% for post in posts %}
   {% include custom-archive-single.html type=entries_layout %}
 {% endfor %}

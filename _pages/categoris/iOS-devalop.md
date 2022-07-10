@@ -8,7 +8,7 @@ sidebar:
   nav: "docs"
 ---
 
-{% assing posts = site.categories.iOS-devalop %}
+{% assign posts = site.categories.iOS-devalop %}
 {% for post in posts %}
   {% include custom-archive-single.html type=entries_layout %}
 {% endfor %}
