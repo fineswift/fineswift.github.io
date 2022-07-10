@@ -2,6 +2,7 @@
 title: "블로그 설명서"
 permalink: /about/
 layout: single
+author_profile: true
 ---
 
 ## iOS 개발자 블로그 입니다.
