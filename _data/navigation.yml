@@ -13,4 +13,6 @@ main:
   - title: "iOS"
   - url: /iOS/
   - title: "알고리즘"
-  - url: "algorithm"
+  - url: /algorithm/
+  - title: "간단 소개"
+  - url: /about/
