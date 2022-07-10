@@ -1,11 +1,21 @@
 ---
+layout: single
 title:  "코드로 View 작업 시 한번에 addSubview하기"
 excerpt: "Swift 꿀팁"
+folder: "extension"
 
 categories:
-  - Extension
-tags:
-  - Swift
+  - extension
+tags: [Swift, extension]
+
+author_profile: true
+sidebar:
+  nav: "docs"
+
+toc: true
+toc_label: "목록"
+toc_icon: "bars"
+toc_sticky: true
 
 date: 2020-07-07
 ---
