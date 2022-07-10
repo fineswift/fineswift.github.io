@@ -10,9 +10,7 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
-  - title: "iOS"
-    url: /iOS/
-  - title: "알고리즘"
-    url: /algorithm/
-  - title: "간단 소개"
+  - title: "Home"
+    url: "https://fineswift.github.io"
+  - title: "About"
     url: /about/
