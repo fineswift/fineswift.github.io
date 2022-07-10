@@ -17,21 +17,21 @@ main:
 
 docs:
   - title: iOS
-  children:
-    - title: "iOS개발"
-      url: iOS-devalop/
-      category: "iOS-devalop"
-    - title: "Extension"
-      url: extension/
-      category: "extension"
+    children:
+      - title: "iOS개발"
+        url: iOS-devalop/
+        category: "iOS-devalop"
+      - title: "Extension"
+        url: extension/
+        category: "extension"
   - title: Algorithm
-  children:
-    - title: "자료구조"
-      url: data-structure/
-      category: "data-structure"
-    - title: "프로그래머스"
-      url: programmers/
-      categoty: "programmers"
-    - title: "백준"
-      url: backjoon/
-      category: "backjoon"
+    children:
+      - title: "자료구조"
+        url: data-structure/
+        category: "data-structure"
+      - title: "프로그래머스"
+        url: programmers/
+        categoty: "programmers"
+      - title: "백준"
+        url: backjoon/
+        category: "backjoon"
