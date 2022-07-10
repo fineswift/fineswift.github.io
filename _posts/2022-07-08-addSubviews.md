@@ -3,12 +3,11 @@ title:  "코드로 View 작업 시 한번에 addSubview하기"
 excerpt: "Swift 꿀팁"
 
 categories:
-  - Extension
+  - iOS
 tags:
-  - Swift
+  - iOS
 
 date: 2020-07-07
-last_modified_at: 2019-04-13T08:06:00-05:00
 ---
 
 안녕하세요. 이번엔 iOS 개발을 하면서 사용하기 좋은 꿀팁하나 가져와봤습니다.
