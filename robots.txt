@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://fineswift.github.io/sitemap.xml
