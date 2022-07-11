@@ -18,20 +18,20 @@ main:
 docs:
   - title: iOS
     children:
-      - title: "iOS개발"
+      - title: "iOS 개발"
         url: iOS-devalop/
         category: "iOS-devalop"
-      - title: "Extension"
-        url: extension/
-        category: "extension"
+      - title: "Swift 팁"
+        url: Extension/
+        category: "Extension"
   - title: Algorithm
     children:
       - title: "자료구조"
-        url: data-structure/
-        category: "data-structure"
+        url: Data-structure/
+        category: "Data-structure"
       - title: "프로그래머스"
-        url: programmers/
-        categoty: "programmers"
+        url: Programmers/
+        categoty: "Programmers"
       - title: "백준"
-        url: backjoon/
-        category: "backjoon"
+        url: Backjoon/
+        category: "Backjoon"

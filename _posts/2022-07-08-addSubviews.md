@@ -2,22 +2,16 @@
 layout: single
 title:  "코드로 View 작업 시 한번에 addSubview하기"
 excerpt: "Swift 꿀팁"
-folder: "extension"
 
 categories:
-  - extension
-tags: [Swift, extension]
+  - Extension
+# tags: [Swift, Extension]
 
 author_profile: true
 sidebar:
   nav: "docs"
 
-toc: true
-toc_label: "목록"
-toc_icon: "bars"
-toc_sticky: true
-
-date: 2020-07-07
+# date: 2020-07-07
 ---
 
 안녕하세요. 이번엔 iOS 개발을 하면서 사용하기 좋은 꿀팁하나 가져와봤습니다.

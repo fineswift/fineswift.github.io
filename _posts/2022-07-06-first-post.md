@@ -3,11 +3,15 @@ title:  "github.io 블로그 첫 포스팅"
 excerpt: "GitHub Blog 서비스인 github.io 블로그를 시작해 보려고 합니다."
 
 categories:
-  - Blog
+  - iOS-devalop
 tags:
   - Blog
 
-date: 2020-07-06
+author_profile: true
+sidebar:
+  nav: "docs"
+
+# date: 2020-07-06
 ---
 
 개발 공부를 더 열심히 하고자 블로그를 쓰면서 정보도 공유하고 정리할 겸 GitHub Blog 서비스인 github.io 블로그를 시작하기로 했습니다.

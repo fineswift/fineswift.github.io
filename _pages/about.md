@@ -1,5 +1,5 @@
 ---
-title: "블로그 설명서"
+title: "블로그 소개"
 permalink: /about/
 layout: single
 author_profile: true
