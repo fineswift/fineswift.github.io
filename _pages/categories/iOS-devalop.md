@@ -1,6 +1,6 @@
 ---
 title: "iOS-devalop"
-permalink: iOS-devalop
+permalink: categories/iOS-devalop
 layout: archive
 
 author-profile: true
