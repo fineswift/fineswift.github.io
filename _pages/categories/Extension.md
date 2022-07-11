@@ -1,6 +1,6 @@
 ---
 title: "Swift 팁"
-permalink: categories/Extension
+permalink: Extension
 layout: archive
 
 author-profile: true

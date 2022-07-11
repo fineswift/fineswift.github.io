@@ -1,6 +1,6 @@
 ---
 title: "Swift 자료구조"
-permalink: categories/Data-structure
+permalink: Data-structure
 layout: archive
 
 author-profile: true

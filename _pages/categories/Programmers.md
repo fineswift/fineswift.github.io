@@ -1,6 +1,6 @@
 ---
 title: "프로그래머스"
-permalink: categories/Programmers
+permalink: Programmers
 layout: archive
 
 author-profile: true
