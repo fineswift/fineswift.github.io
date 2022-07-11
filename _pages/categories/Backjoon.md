@@ -1,6 +1,6 @@
 ---
 title: "백준"
-permalink: Backjoon
+permalink: Backjoon/
 layout: archive
 
 author-profile: true
