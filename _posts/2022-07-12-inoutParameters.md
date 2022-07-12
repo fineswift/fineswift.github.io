@@ -68,7 +68,7 @@ inout 파라미터를 사용할 때는 함수 외부의 값이 변경되므로 �
 이 동작을 copy-in copy-out 또는 call by value result라고 불리는데
 값을 복사해서 수정하고 다시 원래 값에 복사한다고 볼 수 있습니다.  
 또 특징으로는 최적화를 위해 인자 값이 메모리의 물리적 주소에 저장된 값인경우 함수 내부와 외부에서 동일한 메모리 위치가 사용된다고 합니다.
-> 출처: https://docs.swift.org/swift-book/ReferenceManual/Declarations.html#ID545
+> 출처: <https://docs.swift.org/swift-book/ReferenceManual/Declarations.html#ID545>
 
 이 부분은 이해가 어렴풋이 되어 글로 정리 하려니 힘드네요.. 아직 많이 부족한거 같습니다.  
 혹시 잘 알고 있으신 분은 피드백 주시면 감사하겠습니다:)
