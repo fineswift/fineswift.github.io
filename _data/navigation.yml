@@ -31,7 +31,7 @@ docs:
         category: "Data-structure"
       - title: "프로그래머스"
         url: Programmers/
-        categoty: "Programmers"
+        category: "Programmers"
       - title: "백준"
         url: Backjoon/
         category: "Backjoon"
