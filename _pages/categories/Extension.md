@@ -1,5 +1,5 @@
 ---
-title: "Swift 팁"
+# title: "Swift 팁"
 permalink: Extension/
 layout: archive
 

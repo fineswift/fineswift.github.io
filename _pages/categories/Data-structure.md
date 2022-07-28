@@ -1,5 +1,5 @@
 ---
-title: "Swift 자료구조"
+# title: "Swift Data Structure"
 permalink: Data-structure/
 layout: archive
 

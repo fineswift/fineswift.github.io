@@ -1,5 +1,5 @@
 ---
-title: "백준"
+# title: "Backjoon Algorithm Solutions"
 permalink: Backjoon/
 layout: archive
 

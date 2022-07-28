@@ -1,5 +1,5 @@
 ---
-title: "프로그래머스"
+# title: "Programmers Algorithm Solutions"
 permalink: Programmers/
 layout: archive
 
