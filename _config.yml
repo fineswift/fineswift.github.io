@@ -295,6 +295,8 @@ defaults:
       related: true
       sidebar:
         nav: "docs"
+      toc_ads: true
+      toc_sticky: true
 
   # _pages                      : 해당 하단 영역이 새로 추가되었습니다.
   - scope:
